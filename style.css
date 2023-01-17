@@ -1,0 +1,48 @@
+.heading {
+    width: 100%;
+}
+
+#instructions {
+    float: right;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+.heading h1 {
+    display: inline;
+    font-family: 'Pacifico', cursive;
+}
+
+#big_img {
+    width: 100%;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+h4 {
+    background-color: rgb(197, 196, 196);
+    line-height: 2;
+    margin: 0px;
+}
+
+.images {
+    width: 45%;
+}
+
+#footer {
+    background-color: white;
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+}
